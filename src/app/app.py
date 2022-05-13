@@ -33,3 +33,4 @@ st.write(prediction_rounded)
 st.subheader("Über das Modell und die Daten")
 "Das Modell ist ein lineares Regressionsmodell auf Grundlage von Daten von 2010 bis 2020"
 "Es steht ein Datenpunkt pro Jahr zur Verfügung"
+#%%
